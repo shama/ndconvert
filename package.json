@@ -30,8 +30,7 @@
   },
   "dependencies": {
     "get-pixels": "~1.0.1",
-    "ndarray": "~1.0.5",
-    "base64-js": "0.0.2"
+    "ndarray": "~1.0.5"
   },
   "devDependencies": {
   },
