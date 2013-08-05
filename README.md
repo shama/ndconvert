@@ -3,7 +3,7 @@
 A CLI tool for converting images (PNG) to ndarray json files.
 
 Basically it is
-[this script](https://github.com/mikolalysenko/isabella-texture-pack/blob/master/convert.js)
+[Mikola Lysenko's script](https://github.com/mikolalysenko/isabella-texture-pack/blob/master/convert.js)
 copied and turned into a binary to run anywhere.
 
 ## example
