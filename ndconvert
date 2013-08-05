@@ -2,9 +2,9 @@
 require('get-pixels')(process.argv[2], function(err, data) {
   var buf = new Buffer(data.data)
   var obj = {
-    shape: data.shape,
+    shape: data.shape.slice(0),
     offset: data.offset,
-    stride: data.stride,
+    stride: data.stride.slice(0),
     data: buf.toString('base64')
   }
   console.log(JSON.stringify(obj))
