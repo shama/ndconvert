@@ -1,7 +1,7 @@
 {
   "name": "ndconvert",
   "description": "Convert an image to an ndarray json file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/shama/ndconvert",
   "author": {
     "name": "Kyle Robinson Young",

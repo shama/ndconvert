@@ -33,4 +33,5 @@ npm install ndconvert -g
 ```
 
 ## release history
+* 0.1.1 - fix issues with shape and stride
 * 0.1.0 - initial release
